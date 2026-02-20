@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "開幕宣言",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-20T10:56:58.550949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "開幕宣言 - Opening declaration",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/01_開幕宣言_-_Opening_declaration_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "開幕宣言",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/02_開幕宣言_Novelbright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "開幕宣言",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_開幕宣言_Novelbright.txt"
+    }
+  ]
+}
